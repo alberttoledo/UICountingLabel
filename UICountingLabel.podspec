@@ -1,4 +1,4 @@
-Pod::Spec.new do |s|
+Pod::Spec.new do |spec|
   spec.name         = "UICountingLabel"
   spec.version      = "1.2.0"
   spec.summary      = "Adds animated counting support to UILabel."

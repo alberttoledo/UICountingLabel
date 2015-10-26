@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = "UICountingLabel"
+  spec.name         = "countingLabel"
   spec.version      = "1.2.0"
   spec.summary      = "Adds animated counting support to UILabel."
   spec.homepage     = "https://github.com/alberttoledo/UICountingLabel"
